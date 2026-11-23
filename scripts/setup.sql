@@ -9,7 +9,7 @@ Last Updated: 6/16/2026
 -- ----------------------------------------------------------------------------
 -- Create the account level objects
 -- ----------------------------------------------------------------------------
---SET MY_USER = CURRENT_USER();
+SET MY_USER = CURRENT_USER();
 USE ROLE ACCOUNTADMIN;
 
 -- Roles
